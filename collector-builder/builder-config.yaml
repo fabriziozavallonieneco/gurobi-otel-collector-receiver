@@ -3,6 +3,3 @@ dist:
   description: Custom OTel Collector with Gurobi receiver
   output_path: ./otel-gurobi
   version: 0.1.0
-
-receivers:
-  - github.com/fabriziozavallonieneco/gurobi-otel-collector-receiver
